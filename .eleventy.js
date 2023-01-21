@@ -5,7 +5,6 @@ const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 
 const pluginRss = require("@11ty/eleventy-plugin-rss");
-const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 
 module.exports = function (eleventyConfig) {
@@ -16,7 +15,6 @@ module.exports = function (eleventyConfig) {
 
   // Add plugins
   eleventyConfig.addPlugin(pluginRss);
-  eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
