@@ -1,6 +1,6 @@
 ---
 title: City of Vampires, part 1 - Baron Larkhill
-description: An introduction to the City of Vampires concept
+description: An introduction to the City of Vampires concept and one of our main villains
 date: 2023-01-18
 tags:
   - City of Vampires
