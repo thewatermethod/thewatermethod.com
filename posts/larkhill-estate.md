@@ -1,6 +1,6 @@
 ---
-title: Cursed Blood, part 2 - Lakhill Village
-description: An tour of the vampire Baron Lakhill's land holdings
+title: Cursed Blood, part 2 - Larkhill Village
+description: An tour of the vampire Baron Larkhill's land holdings
 date: 2023-01-18
 tags:
   - Cursed Blood
@@ -14,7 +14,7 @@ _In case you've forgotten, [Cursed Blood](/tags/cursed-blood/) is the codename f
 
 The Larkhill estate is the home of the [Baron Larkhill](/posts/baron-larkhill/), an ancient, insane, grieving vampire who lives in the spiny tower at the center of the sprawling collection of castle buildings and farmland.
 
-The Larkhill estate sits a dozen or so miles from the borders of the city of Basarab, and the presence of Larkill's small army and it's vampire commanders hangs like a guillotine over the thriving port city. A visitor to the Larkhill estate, however, will be first struck by the scenic pastoral nature of the Larkhill village where those indebted to the Baron and his family still work the land. An ancient grain mill hangs amongst the hilly outcroppings.
+The Larkhill estate sits a dozen or so miles from the borders of the city of Basarab, and the presence of Larkhill's small army and it's vampire commanders hangs like a guillotine over the thriving port city. A visitor to the Larkhill estate, however, will be first struck by the scenic pastoral nature of the Larkhill village where those indebted to the Baron and his family still work the land. An ancient grain mill hangs amongst the hilly outcroppings.
 
 Larkhill Village is known by those who live there as "The Boot", and it is kept a dry village by Lakhill mandate, as they, in a quirk of their appetites, find the taste of alcohol filtered through human blood to be disgusting.
 
