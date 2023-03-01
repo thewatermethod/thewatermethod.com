@@ -1,14 +1,14 @@
 ---
-title: City of Vampires, part 1 - Baron Larkhill
-description: An introduction to the City of Vampires concept and one of our main villains
+title: Cursed Blood, part 1 - Baron Larkhill
+description: An introduction to the Cursed Blood concept and one of our main villains
 date: 2023-01-18
 tags:
-  - City of Vampires
+  - Cursed Blood
 ---
 
 <img src="/img/vania.jpg" alt="all the various castlevania protagonists, arranged in two rows"/>
 
-City of Vampires is the codename for a Castlevania inspired setting for my current home game. We are playing using a homebrewed system (very) loosely based on the game [_Miserable Secrets_ by Rose Bailey](https://www.drivethrurpg.com/product/245941/Miserable-Secrets). That shouldn't be taken on the comment of that particular game, my group simply didn't enjoy using a deck of cards on Roll 20, which is our primary way of playing.
+**Cursed Blood** is the codename for a Castlevania inspired setting for my current home game. We are playing using a homebrewed system (very) loosely based on the game [_Miserable Secrets_ by Rose Bailey](https://www.drivethrurpg.com/product/245941/Miserable-Secrets). That shouldn't be taken on the comment of that particular game, my group simply didn't enjoy using a deck of cards on Roll 20, which is our primary way of playing.
 
 The system, which posits a world ruled by vampires, referred to as nobles. This and the general Castlevania of it all are all you really need to understand about that, and you only really might care because it served as a starting point for the creation of this setting. Like nearly all games I run, it has tended to bend towards a sort of horror inflected OSR experience the more we play.
 

@@ -1,14 +1,14 @@
 ---
-title: City of Vampires, part 2 - Lakhill Village
+title: Cursed Blood, part 2 - Lakhill Village
 description: An tour of the vampire Baron Lakhill's land holdings
 date: 2023-01-18
 tags:
-  - City of Vampires
+  - Cursed Blood
 ---
 
 <img src="/img/scary-castle.jpg" alt="a scary castle photographed on a misty night... is it the larkhill estate?" />
 
-_In case you've forgotten, [City of Vampires](/tags/city-of-vampires/) is the codename for a Castlevania inspired setting for my current home game. We are playing using a homebrewed system (very) loosely based on the game [Miserable Secrets by Rose Bailey](https://www.drivethrurpg.com/product/245941/Miserable-Secrets)._
+_In case you've forgotten, [Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired setting for my current home game. We are playing using a homebrewed system (very) loosely based on the game [Miserable Secrets by Rose Bailey](https://www.drivethrurpg.com/product/245941/Miserable-Secrets)._
 
 ## The Boot
 
