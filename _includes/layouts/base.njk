@@ -24,9 +24,9 @@
       <section class="content-section">
           {{ content | safe }}
       </section>
-      <aside>
-        {% include 'sidebar.njk' %}
-      </aside>
+
+      {% include 'sidebar.njk' %}
+
     </main>
 
     <footer>
@@ -45,5 +45,5 @@
 
     <!-- Current page: {{ page.url | url }} -->
 
-    <script src="{{ '/js/theme.js' | url }}" async></script>
+    {# <script src="{{ '/js/theme.js' | url }}" async></script> #}
 </html>

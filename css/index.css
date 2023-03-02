@@ -302,8 +302,25 @@ footer .attribution {
   padding: 0.5em;
 }
 
-/* .content-section h2,
-.content-section h3,
-.content-section h4 {
-  font-family: var(--font-family-monospace);
-} */
+/*****
+
+SIDEBAR
+
+*****/
+.sidebar {
+  padding: 1em;
+}
+
+.sidebar h2 {
+  font-size: 1em;
+  text-transform: uppercase;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar ul li {
+  margin-bottom: 0.5em;
+}
