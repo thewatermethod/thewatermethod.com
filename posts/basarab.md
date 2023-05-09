@@ -12,7 +12,7 @@ _Miserable Secrets_ suggets a setting deeply inspired by noir, with investigatio
 
 Wanting a consistent lore coupled with investigation led me to think I wanted to confine this campaign somewhat. I came up with what I felt was an interesting idea - a free city in this world so heavily dominated by vampires, keep free largely by the physics of two vampire forces nearby acting on each other. This city represented an armistice zone and could also serve as a zone for proxy war between the two.
 
-I've already [written](/posts/baron-larkhill.md) [at length](/posts/larkhill-estate.md) about the [Larkhills](/posts/basarab.md), one of these opposed Vampire aristocrats. The other, the sorceress Cassandros, ruling over her perch at Thessaly's Cradle, will come later.
+I've already [written](/posts/baron-larkhill) [at length](/posts/larkhill-estate) about the [Larkhills](/posts/basarab), one of these opposed Vampire aristocrats. The other, the sorceress Cassandros, ruling over her perch at Thessaly's Cradle, will come later.
 
 ## Basarab
 
