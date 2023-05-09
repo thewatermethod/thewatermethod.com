@@ -1,6 +1,6 @@
 ---
-title: Jet Black Planet | An Introduction & The Undead Background
-description: A new background for the Black Sword Hack
+title: Jet Black Planet | An Introduction & Some Player Origins
+description: A new origin for the Black Sword Hack
 date: 2023-05-08
 tags:
   - Jet Black Planet
@@ -18,9 +18,9 @@ I like the weird science of the BSH and I think that is probably the level at wh
 
 The setting I imagine would accomodate much of the other business you find in the BSH (Stormbringer-style enchanted weaponry, low-fantasy adventure, the Fae, Demons, & spirits).
 
-Anyway, here are d20 player backgrounds for characters native to the Jet Black Planet.
+Anyway, here are d20 player origins for characters native to the Jet Black Planet.
 
-| Roll | Background                                                                                                                                                        |
+| Roll | Origin                                                                                                                                                            |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | A shambling corpse born out of the swamps, more mushroom than man                                                                                                 |
 | 2    | A dead man’s mind, preserved in a indestructible man-shaped fishbowl                                                                                              |
