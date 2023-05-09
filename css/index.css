@@ -311,6 +311,10 @@ SIDEBAR
   padding: 1em;
 }
 
+.sidebar .widget {
+  margin-bottom: 3em;
+}
+
 .sidebar h2 {
   font-size: 1em;
   text-transform: uppercase;
@@ -323,4 +327,34 @@ SIDEBAR
 
 .sidebar ul li {
   margin-bottom: 0.5em;
+}
+
+.sidebar .widget .post-tag {
+  display: block;
+}
+
+.sidebar input,
+.sidebar label,
+.sidebar textarea {
+  display: block;
+}
+
+.sidebar label {
+  margin-bottom: 1.5em;
+}
+
+.sidebar button[type="submit"] {
+  background-color: var(--txt-red);
+  border: none;
+  border-radius: 4px;
+  color: var(--background-color);
+  font-family: var(--font-family-monospace);
+  cursor: pointer;
+  font-size: 1em;
+  padding: 0.5em 1em;
+}
+
+.req {
+  color: var(--txt-red);
+  font-weight: bold;
 }
