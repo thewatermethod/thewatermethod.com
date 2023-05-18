@@ -7,4 +7,4 @@ tags:
   - Cursed Blood
 ---
 
-Stepping back for a minute to talk about
+As I've written about [before](/tags/cursed-blood)

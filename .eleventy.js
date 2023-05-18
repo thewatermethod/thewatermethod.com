@@ -43,7 +43,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("published", (collection) => {
     return collection
       .getFilteredByTags("posts")
-      .filter((post) => post.status !== "draft");
+      .filter((post) => post.data.status !== "draft");
   });
 
   // Return the smallest number argument
