@@ -1,9 +1,9 @@
 ---
-title: Jet Black Planet | Dead Backgrounds
+title: Dead Black Planet | Undead Backgrounds
 description: Backgrounds for the Undead origin
 date: 2023-05-18
 tags:
-  - Jet Black Planet
+  - Dead Black Planet
 ---
 
 **Ancient Dynasty (unique)** You start the game with 2 randomly selected spells. /+1 INT, +1 STR

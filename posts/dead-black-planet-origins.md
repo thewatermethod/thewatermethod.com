@@ -1,9 +1,9 @@
 ---
-title: Jet Black Planet | An Introduction & Some Player Origins
+title: Dead Black Planet | An Introduction & Some Player Origins
 description: A new origin for the Black Sword Hack
 date: 2023-05-08
 tags:
-  - Jet Black Planet
+  - Dead Black Planet
 ---
 
 Received my copy of the [Black Sword Hack](https://www.themerrymushmen.com/product/black-sword-hack-ultimate-chaos-edition/) a few weeks ago and it really resonated with me. Typically (for the publisher) high production values and a mix of influences that line up really well with my own. I've had an idea for a setting inspired by a bit of worldbuilding from China Mieville's [The Scar](https://bookshop.org/p/books/the-scar-china-mieville/14614161?ean=9780345444387) and the Electric Wizard classic _Funeralopolis_.
@@ -12,13 +12,13 @@ Received my copy of the [Black Sword Hack](https://www.themerrymushmen.com/produ
 
 The elevator pitch: a world populated almost completely by the undead, complete with a dead ur-god at the center, ruled by mummies in enormous pyramids, ever growing, ever building. The labor, a resource ever in short supply, fed by a steady stream of zombies and Frankensteins. The low end of the societal totem pole would be the vampire, forced to feed on insects and vermin with so few humans around.
 
-Such a world would be a magnet for weird scientists, necromancers, and resurrectionists of all stripes. The never-ending Great Works of the Pharohs that forever rule the Jet Black Planet would also necessarily be rich and thus the planet could be a clearinghouse for any amount of weirdness that commerce brings.
+Such a world would be a magnet for weird scientists, necromancers, and resurrectionists of all stripes. The never-ending Great Works of the Pharohs that forever rule the Dead Black Planet would also necessarily be rich and thus the planet could be a clearinghouse for any amount of weirdness that commerce brings.
 
-I like the weird science of the BSH and I think that is probably the level at which things operate on the Jet Black Planet. There is very little science fiction here. Travellers from other worlds may arrive but it's unlikely that players in a game I would run here would ever set foot on a spaceship.
+I like the weird science of the BSH and I think that is probably the level at which things operate on the Dead Black Planet. There is very little science fiction here. Travellers from other worlds may arrive but it's unlikely that players in a game I would run here would ever set foot on a spaceship.
 
 The setting I imagine would accomodate much of the other business you find in the BSH (Stormbringer-style enchanted weaponry, low-fantasy adventure, the Fae, Demons, & spirits).
 
-Anyway, here are d20 player origins for Dead & Undead characters native to the Jet Black Planet.
+Anyway, here are d20 player origins for Dead & Undead characters native to the Dead Black Planet.
 
 | Roll | You live on the black planet as                                                                                                                                   |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,6 +39,6 @@ Anyway, here are d20 player origins for Dead & Undead characters native to the J
 | 15   | A nameless one, waking in the great cairns with no memory of your past life                                                                                       |
 | 16   | A chimera, a dead creature with a turtle shell, or dragonfly wings, or cloven hoofs                                                                               |
 | 17   | A lich, with a phlactery made of lead or gold, driven mad by an inability to sleep or dream                                                                       |
-| 18   | A necromancer, forced to dodge hungry vampires, on a quest to understand the secrets of the Jet Black Planet                                                      |
+| 18   | A necromancer, fallen prey to hungry vampires, on a quest to understand the secrets of the Dead Black Planet                                                      |
 | 19   | A scholar spirit, dragged from world to world until landing here, the one planet in the galaxy where cataloging past experiences is a literally never-ending task |
 | 20   | A saint, matyred, and awoken here to their great dismay                                                                                                           |
