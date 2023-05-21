@@ -6,9 +6,9 @@ tags:
   - Cursed Blood
 ---
 
-_[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired setting for my current home game. We are playing using a homebrewed system (very) loosely based on the game [Miserable Secrets by Rose Bailey](https://www.drivethrurpg.com/product/245941/Miserable-Secrets)._
+_[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired setting of psychedelic horror._
 
-_Miserable Secrets_ suggets a setting deeply inspired by noir, with investigation being a core part of the rules. Although we've moved away from that ruleset, I wanted to keep lots of ideas that I found so cool and interesting about those rules and that setting. I also wanted to build a "lore-heavy" setting as a bit of departure from the gonzo, anything goes stuff my group has bene doing over the past couple of years.
+When we set out to play the game that became Cursed Blood, we were originally going to play a game called [Miserable Secrets by Rose Bailey](https://www.drivethrurpg.com/product/245941/Miserable-Secrets), which suggets a setting deeply inspired by noir, with investigation being a core part of the rules. Although we moved away from playing that game after group discussion, I wanted to keep lots of ideas that I found so cool and interesting about those rules and that setting. I also wanted to build a "lore-heavy" setting as a bit of departure from the gonzo, anything goes stuff my group has bene doing over the past couple of years.
 
 Wanting a consistent lore coupled with investigation led me to think I wanted to confine this campaign somewhat. I came up with what I felt was an interesting idea - a free city in this world so heavily dominated by vampires, keep free largely by the physics of two vampire forces nearby acting on each other. This city represented an armistice zone and could also serve as a zone for proxy war between the two.
 

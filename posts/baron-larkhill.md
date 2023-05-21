@@ -8,9 +8,9 @@ tags:
 
 <img src="/img/vania.jpg" alt="all the various castlevania protagonists, arranged in two rows"/>
 
-**Cursed Blood** is the codename for a Castlevania inspired setting for my current home game. We are playing using a homebrewed system (very) loosely based on the game [_Miserable Secrets_ by Rose Bailey](https://www.drivethrurpg.com/product/245941/Miserable-Secrets). That shouldn't be taken on the comment of that particular game, my group simply didn't enjoy using a deck of cards on Roll 20, which is our primary way of playing.
+_[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired setting of psychedelic horror._
 
-The system, which posits a world ruled by vampires, referred to as nobles. This and the general Castlevania of it all are all you really need to understand about that, and you only really might care because it served as a starting point for the creation of this setting. Like nearly all games I run, it has tended to bend towards a sort of horror inflected OSR experience the more we play.
+Cursed Blood posits a world ruled by vampires, referred to as nobles. We originally started by creating characters for the game [Miserable Secrets by Rose Bailey](https://www.drivethrurpg.com/product/245941/Miserable-Secrets), as we were looking to play in a Castlevania style world. As time went on, it tended to bend towards a sort of horror inflected OSR experience. That is because of the kind of play I favor, which is heavy on discovering the world and the lore held within through exploration and problem solving.
 
 My initial conception of the game, though, was that the player characters would inhabit the city of Basarab, a riverside city sandwiched between two powerful yet different vampires, and that the game would consist of politicking and adventuring in this city which was forever under threat of invasion and domination. I know better at this point in my game playing career to complain about things not going as I imagined.
 

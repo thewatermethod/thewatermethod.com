@@ -8,7 +8,7 @@ tags:
 
 <img src="/img/scary-castle.jpg" alt="a scary castle photographed on a misty night... is it the larkhill estate?" />
 
-_In case you've forgotten, [Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired setting for my current home game. We are playing using a homebrewed system (very) loosely based on the game [Miserable Secrets by Rose Bailey](https://www.drivethrurpg.com/product/245941/Miserable-Secrets)._
+_[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired setting of psychedelic horror._
 
 ## The Boot
 
