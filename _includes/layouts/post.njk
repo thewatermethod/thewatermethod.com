@@ -12,9 +12,9 @@ templateClass: tmpl-post
 
 {{ content | safe }}
 
-{%- if collections.posts %}
-{%- set nextPost = collections.posts | getNextCollectionItem(page) %}
-{%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+{%- if collections.published %}
+{%- set nextPost = collections.published | getNextCollectionItem(page) %}
+{%- set previousPost = collections.published | getPreviousCollectionItem(page) %}
 {%- if nextPost or previousPost %}
 <hr>
 <ul>
