@@ -1,7 +1,7 @@
 ---
 title: Cursed Blood, part 5 - Porting Cursed Blood to B/X
 description: Stepping back
-date: 2023-05-18
+date: 2023-05-28
 eleventyExcludeFromCollections: true
 tags:
   - Cursed Blood
@@ -17,18 +17,18 @@ Looking back, I think I should have switched to OSE immediately, because as we m
 
 In addition, as soon as we dug in, we essentially discarded much of the world building in the Miserable Secrets corebook. The reason for that is - I like to make stuff up. I've never used a book completely straight, I don't think, especially something in the realm of fantasy.
 
-This is all to say, I feel like converting the custom classes and worldbuilding into an OSE framework. And I'm going to start with the following fighter-style class, The Doomed.
+This is all to say, I feel like converting the custom classes and worldbuilding into an OSE framework. I'm starting with the settings equivalent to the Fighter.
 
 <div class="ose-class">
 <h2 class="ose-class-title">The Doomed</h2>
 <div class="ose-class-stats">
-  <p><strong>Requirements</strong><span>None</span></p>
-  <p><strong>Prime requisite</strong><span>STR or DEX</span></p>
-  <p><strong>Hit Dice</strong><span>1d8</span></p>
-  <p><strong>Maximum level</strong><span>13</span></p>
-  <p><strong>Armor</strong><span>Any, including shields</span></p>
-  <p><strong>Weapons</strong><span>A mythic weapon (roll on the table below)</span></p>
-  <p><strong>Languages</strong><span>Common, Hunter's Code</span></p>
+  <p><strong>Requirements: </strong><span>None</span></p>
+  <p><strong>Prime requisite: </strong><span>STR or DEX</span></p>
+  <p><strong>Hit Dice: </strong><span>1d8</span></p>
+  <p><strong>Maximum level: </strong><span>13</span></p>
+  <p><strong>Armor: </strong><span>Any, including shields</span></p>
+  <p><strong>Weapons: </strong><span>A mythic weapon (roll on the table below)</span></p>
+  <p><strong>Languages: </strong><span>Common, Hunter's Code</span></p>
 </div>
 
 <ul>
@@ -39,20 +39,20 @@ This is all to say, I feel like converting the custom classes and worldbuilding 
 <li>They are indoctrinated as children and if chosen to wield a weapon, are gifted with magical golden eyes and burning toxic blood.</li>
 </ul>
 
-|     | Legacy weapon (1d6 DMG)       | Bonus                                                                                                   |
-| --- | ----------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 1   | Bloodfarmer (Kusuri-gama)     | Can be used as a ranged or melee weapon. Damage and bonuses remain the same.                            |
-| 2   | Starfall (Broadsword)         | _Two-handed_ Can be used as an implement to cast _Light_                                                |
-| 3   | Old Silver (Quarterstaff)     | +1d4 damage against undead foe. The sight of this staff causes lesser undead creatures to flee          |
-| 4   | Starwatcher (Helm)            | +1 to INT. Can be used as an implement to cast _Contact Higher Plane_                                   |
-| 5   | Hand of Doom (Cestus)         | +1 to STR.                                                                                              |
-| 6   | Demon's Tongue (Whip)         | +1 to DEX. Can be used to start a small fire (i.e a campfire)                                           |
-| 7   | Thunder (Warhammer)           | _Two-handed_ Damage die is 1d8                                                                          |
-| 8   | The Gentle Reminder (Longbow) | Impart your arrows with psychic messages that are communicated when the arrow pierces the skin (on hit) |
-| 9   | The Raven's Kiss (Crossbow)   | Impart your bolt with a curse that on hit causes the victim to empty their pockets                      |
-| 10  | The Tower (Cuirass)           | +1 to CON.                                                                                              |
-| 11  | Lightning (Mace)              | _Two-handed_ Damage die is 1d8                                                                          |
-| 12  | Dandy Johnny (Spider amulet)  | Damage is 1d4. The wearer learns the spells _Read Languages_, _Read Magic_, and _Detect Invisible_      |
+|     | Legacy weapon (1d6 DMG)                   | Bonus                                                                                                   |
+| --- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| 1   | Bloodfarmer (Kusuri-gama)                 | Can be used as a ranged or melee weapon. Damage and bonuses remain the same.                            |
+| 2   | Starfall (Broadsword)                     | _Two-handed_ Can be used as an implement to cast _Light_                                                |
+| 3   | Old Silver (Quarterstaff)                 | +1d4 damage against undead foe. The sight of this staff causes lesser undead creatures to flee          |
+| 4   | Starwatcher (Helm)                        | +1 to INT. Can be used as an implement to cast _Contact Higher Plane_                                   |
+| 5   | Hand of Doom (Cestus)                     | +1 to STR.                                                                                              |
+| 6   | Demon's Tongue (Whip)                     | +1 to DEX. Can be used to start a small fire (i.e a campfire)                                           |
+| 7   | Thunder (Warhammer)                       | _Two-handed_ Damage die is 1d8                                                                          |
+| 8   | The Gentle Reminder (Longbow)             | Impart your arrows with psychic messages that are communicated when the arrow pierces the skin (on hit) |
+| 9   | The Raven's Kiss (Wrist-mounted crossbow) | Impart your bolt with a curse that on hit causes the victim to empty their pockets                      |
+| 10  | The Tower (Cuirass)                       | +1 to CON.                                                                                              |
+| 11  | Lightning (Mace)                          | _Two-handed_ Damage die is 1d8                                                                          |
+| 12  | Dandy Johnny (Spider amulet)              | Damage is 1d4. The wearer learns the spells _Read Languages_, _Read Magic_, and _Detect Invisible_      |
 
 <div class="ose-class-feature">
 <h3>Combat</h3>
@@ -66,7 +66,7 @@ This is all to say, I feel like converting the custom classes and worldbuilding 
 
 <div class="ose-class-feature">
 <h3>Hunter's Code</h3>
-<p>Hunter's Code is a pictographic language that only the twelve members of the Order understand fully.</p>
+<p>Hunter's Code is a pictographic language that only the twelve members of the Order fully understand.</p>
 </div>
 
 <div class="ose-class-feature">
@@ -86,15 +86,15 @@ they come to believe that outlive their usefulness and start to behave with an i
 </div>
 
 <div class="ose-class-feature">
-<h3>Story hooks</h3>
-<ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ul>
+<h3>What does the Doomed seek?</h3>
+<ol>
+<li>The village of your birth</li>
+<li>The corrupt priest who killed your mentor</li>
+<li>Your lost ancestral keep</li>
+<li>The resting place of the first bearer of your weapon</li>
+<li>The name of the demon whose blood you possess</li>
+<li>The long-missing 13th weapon of the Order -- and it's wielder</li>
+</ol>
 </div>
 
 <div class="ose-level-progession">
