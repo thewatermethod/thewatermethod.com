@@ -40,12 +40,6 @@ module.exports = function (eleventyConfig) {
     return array.slice(0, n);
   });
 
-  eleventyConfig.addCollection("published", (collection) => {
-    return collection
-      .getFilteredByTags("posts")
-      .filter((post) => post.data.status !== "draft");
-  });
-
   // Return the smallest number argument
   eleventyConfig.addFilter("min", (...numbers) => {
     return Math.min.apply(null, numbers);

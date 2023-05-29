@@ -4,11 +4,11 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
-{% set maxPosts = collections.published.length | min(3) %}
+{% set maxPosts = collections.posts.length | min(3) %}
 <h1 class="monospace">Latest Posts</h1>
 
-{% set postslist = collections.published | head(-10) %}
-{% set postslistCounter = collections.published | length %}
+{% set postslist = collections.posts | head(-10) %}
+{% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 
 {# <p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p> #}
