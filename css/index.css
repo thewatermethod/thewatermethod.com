@@ -17,6 +17,7 @@
   --color-gray-20: #e0e0e0;
   --color-gray-50: #c0c0c0;
   --color-gray-90: #333;
+  --color-gray-70: #666;
 
   --txt-black: #1c1c1d;
   --txt-red: #96485a;
@@ -78,9 +79,12 @@ p:last-child {
   margin-bottom: 0;
 }
 p,
-.tmpl-post li,
-img {
+.tmpl-post li {
   max-width: 37.5em; /* 600px /16 */
+}
+
+img {
+  max-width: 100%;
 }
 p,
 .tmpl-post li {
@@ -362,9 +366,54 @@ SIDEBAR
   font-weight: bold;
 }
 
+/**
+  OSE Class box
+**/
+
 .ose-class {
   background: var(--starkest-white);
-  box-shadow: 0 0 0 1px var(--color-gray-50);
+  box-shadow: 0 0 0 1px var(--color-gray-70);
   font-family: var(--font-family-system);
   padding: 0.5em;
+}
+
+.ose-class table {
+  width: 100%;
+}
+
+.ose-class tr:nth-child(even) {
+  background: var(--color-gray-20);
+}
+
+.ose-class ul {
+  padding-left: 1emem;
+}
+
+.ose-class-title {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin: 0 0 0.5em;
+}
+
+.ose-class-stats {
+  background: var(--color-gray-20);
+  padding: 0.5em;
+}
+
+.ose-class-stats p {
+  margin: 0;
+}
+
+.ose-class-feature {
+  margin: 0 0 1.5em 0;
+}
+
+.ose-class-feature h3 {
+  background: var(--color-gray-20);
+  font-style: italic;
+  margin: 0;
+  padding: 0 0.5em;
+}
+
+.ose-class-feature p {
+  margin: 0 0 0.5em 0;
 }
