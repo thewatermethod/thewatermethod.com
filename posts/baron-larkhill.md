@@ -8,7 +8,7 @@ tags:
 
 <img src="/img/vania.jpg" alt="all the various castlevania protagonists, arranged in two rows"/>
 
-_[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired setting of psychedelic horror._
+_[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired setting of psychoactive horror._
 
 Cursed Blood posits a world ruled by vampires, referred to as nobles. We originally started by creating characters for the game [Miserable Secrets by Rose Bailey](https://www.drivethrurpg.com/product/245941/Miserable-Secrets), as we were looking to play in a Castlevania style world. As time went on, it tended to bend towards a sort of horror inflected OSR experience. That is because of the kind of play I favor, which is heavy on discovering the world and the lore held within through exploration and problem solving.
 
