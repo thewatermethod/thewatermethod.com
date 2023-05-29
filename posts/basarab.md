@@ -6,7 +6,7 @@ tags:
   - Cursed Blood
 ---
 
-_[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired setting of psychedelic horror._
+_[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired setting of psychoactive horror._
 
 When we set out to play the game that became Cursed Blood, we were originally going to play a game called [Miserable Secrets by Rose Bailey](https://www.drivethrurpg.com/product/245941/Miserable-Secrets), which suggets a setting deeply inspired by noir, with investigation being a core part of the rules. Although we moved away from playing that game after group discussion, I wanted to keep lots of ideas that I found so cool and interesting about those rules and that setting. I also wanted to build a "lore-heavy" setting as a bit of departure from the gonzo, anything goes stuff my group has bene doing over the past couple of years.
 

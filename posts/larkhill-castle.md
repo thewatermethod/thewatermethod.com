@@ -6,7 +6,7 @@ tags:
   - Cursed Blood
 ---
 
-_[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired setting of psychedelic horror._
+_[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired setting of psychoactive horror._
 
 ## The Building
 
