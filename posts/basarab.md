@@ -30,9 +30,9 @@ The mysterious underworld information broker known as _the Spider_ holds court a
 
 **The Park of Great Works** is a mammoth green space sitting in the Northern half of Basarab. A the center of the park are austere, manicured Gothic gardens that the city maintains at great cost. As you move out from the center, you will increasingly find patches of dark untamed forest or brambles. There is statuary scattered throughout the Park, many of it strange, unclaimed, or ancient.
 
-At the base of a statue of the First Mayor, there is a hidden doorway that can be opened by any alchemist, which leads down into the lodge. The lodge contains all the basic necessities - two rooms for sleeping, a common area stocked with preserves, beer, and of course, a Phantom Library.
+At the base of a statue of the First Mayor, there is a hidden doorway that can be opened by any of the Gilded, which leads down into the lodge. The lodge contains all the basic necessities - two rooms for sleeping, a common area stocked with preserves, beer, and of course, a Phantom Library.
 
-The Phantom Library is a cask of bright red nano machines in the shape of a beautiful wasp. An alchemist holds the cask up to his face and receives the injection in his forehead. They will be mentally transported to the Phantom Library. The library contains an engram of _Orne_ that replicates their personality.
+The Phantom Library is a cask of bright red nano machines in the shape of a beautiful wasp. A Gilded holds the cask up to his face and receives the injection in his forehead. They will be mentally transported to the Phantom Library. The library contains an engram of _Orne_ that replicates their personality.
 
 **Mysterious Architecture** Scattered throughout Basarab are monoliths of stone. Standing 15 feet tall and several feet wide, they can be removed by the determined but it is far more common to simply build around them and work these towers into the construction. They have tapered tops and strange sigils carved into them. No one knows their significance. Most of the residents are, in fact, blind to them.
 
@@ -42,4 +42,4 @@ The Phantom Library is a cask of bright red nano machines in the shape of a beau
 
 **The Spider** wears a black cloak and runs a gang of child thieves/blackmailers known as the Webring. She is alternately a revolutionary, a thief, an idealist, and a murderer. Nothing is beneath her in her quest to free the spirits of mankind from the boot of the nobles.
 
-**Orne** is the mercurial librarian of the Alchemists. They know nearly everything and will answer nearly every question, given that the person asking is an alchemist in good standing. Of course, they believe in the Great Transfusion that is Coming without reservation.
+**Orne** is the mercurial librarian of the Gilded. They know nearly everything and will answer nearly every question, given that the person asking is an Gilded in good standing. Of course, they believe in the Great Transfusion that is Coming without reservation.
