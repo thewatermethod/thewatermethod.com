@@ -40,6 +40,6 @@ The Phantom Library is a cask of bright red nano machines in the shape of a beau
 
 **Lord Councilor Jonathan Stance** has had a seat on the town council of Basarab for nearly 20 years. What horror has he found in his basement that leads him to reach out to the underworld for help?
 
-**The Spider** wears a black cloak and runs a gang of child thieves/blackmailers known as the Webring. She is alternately a revolutionary, a thief, an idealist, and a murderer. Nothing is beneath her in her quest to free the spirits of mankind from the boot of the nobles.
+**The Spider** wears a black cloak and runs a gang of child thieves/blackmailers known as the Webring. She is alternately a revolutionary, a thief, an idealist, and a murderer. Nothing is beneath her in her quest to free the spirits of mankind from the boot of the Ascended.
 
 **Orne** is the mercurial librarian of the Gilded. They know nearly everything and will answer nearly every question, given that the person asking is an Gilded in good standing. Of course, they believe in the Great Transfusion that is Coming without reservation.

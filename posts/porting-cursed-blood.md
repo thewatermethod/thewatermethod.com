@@ -1,5 +1,5 @@
 ---
-title: Cursed Blood, part 5 - Porting Cursed Blood to B/X
+title: Cursed Blood, part 5 - Porting Cursed Blood to B/X & the Doomed (OSE Class)
 description: Stepping back
 date: 2023-05-29
 tags:
@@ -33,7 +33,7 @@ This is all to say, I am now converting the custom classes and worldbuilding int
 <ul>
 <li>The Doomed are inheritors of an ancient lineage of protectors and monster-slayers.</li>
 <li>They did not refer to themselves as Doomed, but as members of The Order.</li> 
-<li>They are regarded as a necessary evil by the Nobility, as they eliminate the threat from demons and mutated creatures.</li>
+<li>They are regarded as a necessary evil by the Ascended, as they eliminate the threat from demons and mutated creatures.</li>
 <li>There are 12 in the Order at any given time, one for each of the mystical weapons possessed by the original 12 hunters.</li> 
 <li>They are indoctrinated as children and if chosen to wield a weapon, are gifted with magical golden eyes and burning toxic blood.</li>
 </ul>

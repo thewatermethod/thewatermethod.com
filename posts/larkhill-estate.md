@@ -22,7 +22,7 @@ The village is occasionally tormented by the nighttime antics of the Baron's old
 
 The Baron himself only visits the village on the occasions of his feedings, where he is presented with a young adult from the village.
 
-Because of these things, the villagers are often discontent. The Larkhills overcome this by keeping the villagers laboring as often as possible, and by allowing only Church sects friendly to the vampires to flourish there. In particular, a sect known as Church of St June of Obeisance, or otherwise "The Small Church", is the main outlet for the religious amongst the serfdom. There is also folk magic. In particular, a witch known as Mother Stone has lived in this village and provided folk rememdies to its people for many years. She is an excellent point of contact for the players here, who will find little else of interest amongst the poor and overworked people of The Boot.
+Because of these things, the villagers are often discontent. The Larkhills overcome this by keeping the villagers laboring all hours, and by allowing only Church sects friendly to the vampires to flourish there. A sect known as Church of St June of Obeisance, or otherwise "The Small Church", is the main outlet for the religious amongst the serfdom. There is also folk magic. A witch known as Mother Stone has lived in this village and provided folk rememdies to its people for many years. She is an excellent point of contact for the players here, who will find little else of interest amongst the poor and overworked people of The Boot.
 
 In fact, a group of player characters will likely only pass through on the way to the Larkhill castle itself, which we will discuss soon.
 

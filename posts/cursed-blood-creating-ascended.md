@@ -1,6 +1,6 @@
 ---
-title: Cursed Blood, part 7 - Creating a member of the Nobility
-description: Create a member of the Nobility in Cursed Blood
+title: Cursed Blood, part 7 - Creating a member of the Ascended
+description: Create a member of the Ascended in Cursed Blood
 date: 2023-06-01
 tags:
   - Cursed Blood
@@ -8,8 +8,7 @@ tags:
 
 _[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired setting of psychoactive horror I'm working on._
 
-I [recently talked about how the concept of vampires](/posts/cursed-blood-nobility) evolved when developing my ideas for the Cursed Blood setting into these Castlevania-Dracula-esque demigods that I'm referring to as the Nobility (a
-homage to the Nobles of [Miserable Secrets](https://www.drivethrurpg.com/product/245941/Miserable-Secrets)).
+I [recently talked about how the concept of vampires](/posts/cursed-blood-ascended) evolved when developing my ideas for the Cursed Blood setting into these Castlevania-Dracula-esque demigods that I'm referring to as the Ascended.
 
 ## Names
 
@@ -69,7 +68,7 @@ This is a role-playing prompt more than anything else.
 
 ## Powers
 
-Roll 2 or 3 times, depending on how old and poweful this noble is. Spells are as their closest OSE equivalent.
+Roll 2 or 3 times, depending on how old and poweful this Ascended is. Spells are as their closest OSE equivalent.
 
 | d20 | Power                                 |
 | --- | ------------------------------------- |
@@ -106,7 +105,7 @@ Roll until you are inspired.
 | 15  | Obsessed with collecting rare artifacts                                        |
 | 16  | Every sentence they speak contains a lie                                       |
 | 21  | A flowing red robe; hair in a tight bun                                        |
-| 22  | Holds a deep-seated grudge against another member of the Nobility              |
+| 22  | Holds a deep-seated grudge against another member of the Ascended              |
 | 23  | Private chambers are deep under water                                          |
 | 24  | Horribly disfigured                                                            |
 | 25  | Several animate shadows follow them around                                     |
@@ -136,19 +135,19 @@ Roll until you are inspired.
 | 65  | Prehensile third arm emerging from their chest                                 |
 | 66  | Sticky black toad flesh                                                        |
 
-## Statistics & Sample Nobility
+## Statistics & Sample Ascended
 
-You will note that by default, the Nobility is very similar to the OSE Vampire. It's intended that there is some variablity with the numbers - there may be young members of the Nobility, for example, or ones who haven't fully realized their arcane power or built the locus where their power is centralized.
+You will note that by default, the Ascended is very similar to the OSE Vampire. It's intended that there is some variablity with the numbers - there may be young members of the Ascended, for example, or ones who haven't fully realized their arcane power or built the locus where their power is centralized.
 
-Stats should be rolled or customized for each individual member of the Nobility, and XP adjusted accordingly.
-Most of the Nobility are lawful, but not all.
+Stats should be rolled or customized for each individual member of the Ascended, and XP adjusted accordingly.
+Most of the Ascended are lawful, but not all.
 
 <div class="ose-class">
 <h3 class="ose-class-title">
   Strahd Von Zarovich
 </h3>
 <h4 class="ose-class-subtitle">
-A member of the Nobility
+A member of the Ascended
 </h4>
 <div class="ose-monster-stats ose-monster-power">
 
@@ -162,13 +161,13 @@ A member of the Nobility
 <div class="ose-monster-power">
 
 **Mesmerism**: Save versus spells at –2 or be charmed: move towards
-the Nobility (resisting those who try to prevent it); defend the Nobility; obey the Nobility commands (if understood); unable to cast spells or use magic items; unable to harm the Nobility. Killing the Nobility breaks the charm.
+the Ascended (resisting those who try to prevent it); defend the Ascended; obey the Ascended commands (if understood); unable to cast spells or use magic items; unable to harm the Ascended. Killing the Ascended breaks the charm.
 
 </div>
 
 <div class="ose-monster-power">
 
-**Regeneration**: A damaged member of the Nobility gains 1d6 HP at the start of each round.
+**Regeneration**: A damaged member of the Ascended gains 1d6 HP at the start of each round.
 
 </div>
 
