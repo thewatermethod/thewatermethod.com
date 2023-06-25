@@ -142,6 +142,7 @@ table {
 table td,
 table th {
   padding-right: 1em;
+  text-align: left;
 }
 
 table tr:nth-child(even) {
