@@ -55,7 +55,7 @@ _[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired 
 
 <div class="ose-class-feature">
 <h3>Healing</h3>
-<p>Healing spells do not work on the Gilt, as they have no true flesh to restore. One must know the Repair Form spell. Luckily, they are resilient and heal quickly. A long rest heals 1d6 HP, twice the standard 1d3.</p>
+<p>Healing spells do not work on the Gilt, as they have no true flesh to restore. One must know the Repair Gilt Form spell. Luckily, they are resilient and heal quickly. A long rest heals 1d6 HP, twice the standard 1d3.</p>
 </div>
 
 <div class="ose-class-feature">
@@ -68,7 +68,14 @@ _[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired 
 <p>The Gilt cannot die in the traditional sense as they are not truly alive. If they are reduced to zero hit points, they are rendered inert. Functionally, this is similar to death, although certain high level magicians can revive them (Pate, their patron, certainly could). Players may wish to roll another character in this case, or it may become a focus of the party to revive their inert companion.</p>
 
 <p>The exception to this rule is if the Gilt is damaged by something that reduces them into many small pieces, like a large explosion. Simple dismemberment won't do it, but a mechanical separation or destruction of much of the body disrupts the intrinsic nature of their conciousness and at that point they cannot be revived.</p>
+</div>
 
+<div class="ose-class-feature">
+<h3>Repair Gilt Form</h3>
+<p><strong><em>3rd level spell</em></strong><br />
+<strong>Duration</strong>: Instant<br />
+<strong>Range</strong>: Touch</p>
+<p>This spell restores 2d6+2 HP to a Gilt.</p>
 </div>
 
 <div class="ose-class-feature">
