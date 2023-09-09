@@ -60,7 +60,7 @@ This is all to say, I am now converting the custom classes and worldbuilding int
 
 <div class="ose-class-feature">
 <h3>Magic</h3>
-<p>As a result of their training and weaponry, the Doomed may have the ability to access certain spells. They cannot learn to cast new spells or perform magical research to that end, but they can and do wield magical weaponry. All Doomed have access to Detect Magic. These spells ignore the level restrictions that a magic user has. The Doomed can cast a number of spells per day equal to their level. (A level 1 PC can cast 1 spell per day, a level 2 can cast 2, etc)</p>
+<p>The Doomed can wield magical weaponry and cast spells from scrolls or magical implements. They cannot learn spells. The one exception is Detect Magic, as below.</p>
 </div>
 
 <div class="ose-class-feature">
@@ -75,7 +75,7 @@ This is all to say, I am now converting the custom classes and worldbuilding int
 
 <div class="ose-class-feature">
 <h3>Hunter's eyes</h3>
-<p>The Doomed have one physical trait in common; their golden eyes. They have the ability to detect unnatural forces. Because of this, they can make an INT test to cast Detect Magic (See the Magic section for timing restrictions). The Doomed are well known as travellers and their eyes make it difficult to hide their calling. Some fear the sight of a Doomed entering their town as it usually presages a violent episode. Referees should decide on a town's general feeling towards the Doomed in advance.</p>
+<p>The Doomed have one physical trait in common; their golden eyes. They have the ability to detect unnatural forces. Because of this, they can make an INT test to cast Detect Magic once per day. The Doomed are well known as travellers and their eyes make it difficult to hide their calling. Some fear the sight of a Doomed entering their town as it usually presages a violent episode. Referees should decide on a town's general feeling towards the Doomed in advance.</p>
 </div>
 
 <div class="ose-class-feature">
@@ -99,21 +99,21 @@ they come to believe that outlive their usefulness and start to behave with an i
 <div class="ose-level-progession">
   <h3>Level progression</h3>
 
-| Level | XP     | HD    | THAC0  | D   | W   | P   | B   | S   |
-| ----- | ------ | ----- | ------ | --- | --- | --- | --- | --- |
-| 1     | 0      | 1d8   | 19[0]  | 12  | 13  | 14  | 15  | 16  |
-| 2     | 2000   | 2d8   | 17[+2] | 12  | 13  | 14  | 15  | 16  |
-| 3     | 4000   | 3d8   | 17[+2] | 12  | 13  | 14  | 15  | 16  |
-| 4     | 8000   | 4d8   | 14[+5] | 10  | 11  | 14  | 13  | 14  |
-| 5     | 16000  | 5d8   | 14[+5] | 10  | 11  | 14  | 13  | 14  |
-| 6     | 32000  | 6d8   | 12[+7] | 10  | 11  | 14  | 13  | 14  |
-| 7     | 64000  | 7d8   | 12[+7] | 8   | 9   | 10  | 10  | 12  |
-| 8     | 120000 | 8d8   | 10[+9] | 8   | 9   | 10  | 10  | 12  |
-| 9     | 240000 | 9d8   | 10[+9] | 10  | 9   | 10  | 10  | 12  |
-| 10    | 360000 | 9d8+2 | 19[+7] | 10  | 9   | 8   | 13  | 14  |
-| 11    | 480000 | 9d8+4 | 19[+5] | 12  | 9   | 8   | 13  | 14  |
-| 12    | 600000 | 9d8+6 | 17[+2] | 12  | 9   | 8   | 13  | 14  |
-| 13\*  | 720000 | 12d8  | 19[0]  | 15  | 11  | 6   | 15  | 16  |
+| Level | XP     | HD    | D   | W   | P   | B   | S   |
+| ----- | ------ | ----- | --- | --- | --- | --- | --- |
+| 1     | 0      | 1d8   | 12  | 13  | 14  | 15  | 16  |
+| 2     | 2000   | 2d8   | 12  | 13  | 14  | 15  | 16  |
+| 3     | 4000   | 3d8   | 12  | 13  | 14  | 15  | 16  |
+| 4     | 8000   | 4d8   | 10  | 11  | 14  | 13  | 14  |
+| 5     | 16000  | 5d8   | 10  | 11  | 14  | 13  | 14  |
+| 6     | 32000  | 6d8   | 10  | 11  | 14  | 13  | 14  |
+| 7     | 64000  | 7d8   | 8   | 9   | 10  | 10  | 12  |
+| 8     | 120000 | 8d8   | 8   | 9   | 10  | 10  | 12  |
+| 9     | 240000 | 9d8   | 10  | 9   | 10  | 10  | 12  |
+| 10    | 360000 | 9d8+2 | 10  | 9   | 8   | 13  | 14  |
+| 11    | 480000 | 9d8+4 | 12  | 9   | 8   | 13  | 14  |
+| 12    | 600000 | 9d8+6 | 12  | 9   | 8   | 13  | 14  |
+| 13\*  | 720000 | 12d8  | 15  | 11  | 6   | 15  | 16  |
 
 D: Death / poison; W: Wands;
 P: Paralysis / petrify; B: Breath attacks; S: Spells / rods / staves.
