@@ -2,7 +2,6 @@
 title: Cursed Blood, part 8 - The Gilt (OSE Class)
 description: A new character class for use with OSE and my Cursed Blood setting
 date: 2023-06-25
-# eleventyExcludeFromCollections: true
 tags:
   - Cursed Blood
 ---
@@ -26,21 +25,19 @@ _[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired 
 <li>When one of these madmen pledges their service to Pate Nostrum, the King of the Unborn and the Shadows, they are sometimes granted his gift: they are rebuilt as one of his non-living avatars. They exist in the shadows, laying threads to advance a plan they can hardly understand.</li>
 <li>In return, they receive a fraction of the King's power over the elements - they can reshape their bodies to some extent, extend their senses, or create and send out sentient avatars of themselves. They are also nearly immortal, blessed with all the time in the world for study and contemplation.</li>
 <li>Many Gilt suffer from terrible nightmares, phantom body pains. Few of them, if any, acknowledge this.</li>
-<li>Each member of the Gilt is remade in an element of the King's choosing. You can roll on the table below at character creation time to select the substance of your form.</li>
+<li>Each member of the Gilt is remade in an element of the King's choosing. You can roll on the table below at character creation time to select the substance of your form or make one up for yourself. Each form grants a magical power, which a Gilt must roll under their elemental skill to use</li>
 </ul>
 
-| d10 | Element     |
-| --- | ----------- |
-| 1   | Blood       |
-| 2   | Bronze      |
-| 3   | Gold        |
-| 4   | Earth & mud |
-| 5   | Ice         |
-| 6   | Iron        |
-| 7   | Copper      |
-| 8   | Myrrh       |
-| 9   | Magma       |
-| 10  | Void stuff  |
+| d6  | Element     | Power                                                                                                                                                               |
+| --- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Cavorite    | Gain the power of flight for 1d6 X level minutes                                                                                                                    |
+| 2   | Gold        | Generate 1d6 + level gold pieces on success or copper pieces on failure, once per day. Coins dissolve harmlessly in 1d4 hours.                                      |
+| 3   | Earth & mud | Gain the ability to communicate with animals or plants. On a failure, caster loses the ability to speak their native language for 1d4 hours                         |
+| 4   | Obsidian    | Become invisible for 1d6 x level minutes. On a failure, caster emits an unearthly lightbending glow for 1d4 hours                                                   |
+| 5   | Iron        | (no roll) Equivalent to training in all weapons (no penalty to attacks). Bonus to unarmored AC increases to +4.                                                     |
+| 6   | Copper      | Once per day, spontaneously generate gallons of beer or pounds of edible, nutritious foam equal to level. On failure, production is inedible.                       |
+| 9   | Magma       | Release a wave of flame. Everything in 10 x level radius around caster saves against spell or takes 1d4 damage. On failure, caster is rendered inert for 1d4 rounds |
+| 10  | Void stuff  | Bathe the area in unassailable magical darkness for 1d6 X level minutes. On failure, caster is blinded for 1d4 rounds                                               |
 
 <div class="ose-class-feature">
 <h3>Combat</h3>
@@ -55,7 +52,7 @@ _[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired 
 
 <div class="ose-class-feature">
 <h3>Healing</h3>
-<p>Healing spells do not work on the Gilt, as they have no true flesh to restore. One must know the Repair Gilt Form spell. Luckily, they are resilient and heal quickly. A long rest heals 1d6 HP, twice the standard 1d3.</p>
+<p>Magical healing does not work on the Gilt, as they have no true flesh to restore. One must know the Repair Gilt Form spell. Luckily, they are resilient and heal quickly. A long rest heals 1d6 HP, twice the standard 1d3.</p>
 </div>
 
 <div class="ose-class-feature">
@@ -98,22 +95,21 @@ _[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired 
 <div class="ose-level-progession">
   <h3>Level progression</h3>
 
-| Level | XP        | HD     | THAC0  | D   | W   | P   | B   | S   |
-| ----- | --------- | ------ | ------ | --- | --- | --- | --- | --- |
-| 1     | 0         | 1d6    | 19[0]  | -   | 15  | 10  | 10  | 15  |
-| 2     | 2,800     | 2d6    | 19[0]  | -   | 15  | 10  | 10  | 15  |
-| 3     | 5,600     | 3d6    | 19[0]  | -   | 15  | 10  | 10  | 15  |
-| 4     | 12,000    | 4d6    | 19[+2] | -   | 15  | 10  | 10  | 15  |
-| 5     | 24,000    | 5d6    | 17[+2] | -   | 13  | 10  | 10  | 13  |
-| 6     | 48,000    | 6d6    | 17[+2] | -   | 13  | 8   | 8   | 13  |
-| 7     | 100,000   | 7d6    | 17[+2] | -   | 13  | 8   | 8   | 13  |
-| 8     | 200,000   | 8d6    | 17[+2] | -   | 13  | 8   | 8   | 13  |
-| 9     | 400,000   | 9d6    | 14[+5] | -   | 11  | 8   | 8   | 11  |
-| 10    | 560,000   | 9d6+2  | 14[+5] | -   | 11  | 8   | 8   | 11  |
-| 11    | 720,000   | 9d6+4  | 14[+5] | -   | 11  | 6   | 6   | 11  |
-| 12    | 980,000   | 9d6+6  | 14[+5] | -   | 11  | 6   | 6   | 11  |
-| 13\*  | 1,140,000 | 10d6   | 12[+7] | -   | 8   | 6   | 6   | 8   |
-| 14    | 1,300,000 | 10d6+2 | 12[+7] | -   | 8   | 6   | 6   | 8   |
+| Level | XP        | HD     | D   | W   | P   | B   | S   | Elemental |
+| ----- | --------- | ------ | --- | --- | --- | --- | --- | --------- |
+| 1     | 0         | 1d6    | -   | 15  | 10  | 10  | 15  | 2 / 6     |
+| 2     | 2,800     | 2d6    | -   | 15  | 10  | 10  | 15  | 2 / 6     |
+| 3     | 5,600     | 3d6    | -   | 15  | 10  | 10  | 15  | 2 / 6     |
+| 4     | 12,000    | 4d6    | -   | 15  | 10  | 10  | 15  | 4 / 8     |
+| 5     | 24,000    | 5d6    | -   | 13  | 10  | 10  | 13  | 4 / 8     |
+| 6     | 48,000    | 6d6    | -   | 13  | 8   | 8   | 13  | 4 / 8     |
+| 7     | 100,000   | 7d6    | -   | 13  | 8   | 8   | 13  | 5 / 8     |
+| 9     | 400,000   | 9d6    | -   | 11  | 8   | 8   | 11  | 6 / 8     |
+| 10    | 560,000   | 9d6+2  | -   | 11  | 8   | 8   | 11  | 6 / 8     |
+| 11    | 720,000   | 9d6+4  | -   | 11  | 6   | 6   | 11  | 6 / 8     |
+| 12    | 980,000   | 9d6+6  | -   | 11  | 6   | 6   | 11  | 7 / 8     |
+| 13\*  | 1,140,000 | 10d6   | -   | 8   | 6   | 6   | 8   | 7 / 8     |
+| 14    | 1,300,000 | 10d6+2 | -   | 8   | 6   | 6   | 8   | 7 / 8     |
 
 D: Death / poison; W: Wands;
 P: Paralysis / petrify; B: Breath attacks; S: Spells / rods / staves.
