@@ -81,7 +81,13 @@ This is all to say, I am now converting the custom classes and worldbuilding int
 <div class="ose-class-feature">
 <h3>A terrible destiny</h3>
 <p>The Doomed are taught from a young age that they will die in the service of their creed. This belief is so pervasive that at a certain point,
-they come to believe that outlive their usefulness and start to behave with an incredible disregard for their safety. After level 11, they become more fragile, both hit protection and saving throws start to decline.</p>
+they come to believe that outlive their usefulness and start to behave with an incredible disregard for their safety. As they increase in level, they become more succeptible to death and saving throws start to decline.</p>
+</div>
+
+<div class="ose-class-feature">
+<h3>Legacy weapon</h3>
+<p>The Doomed wield a powerful legacy weapon that they've inherited from a previous wielder. At level 9, the legacy weapon gains an additional ability. This should be something that the player and the referee work out together. It should reflect the nature of the weapon and the choices the character has made.</p>
+<p><em>Example: A player reaches level 9 wielding <strong>Bloodfarmer</strong>, the Kusuri-gama. Since they've played thier character as an analytical problem solver who prefers to talk rather than fight, the referee suggests that perhaps the weapon should cast "charm person." The player agrees but asks if it can function more like Wonder Woman's lasso, as a difficult to escape enchantment that compels those bound with it to tell the truth. The referee agrees!</em></p>
 </div>
 
 <div class="ose-class-feature">
@@ -108,17 +114,17 @@ they come to believe that outlive their usefulness and start to behave with an i
 | 5     | 16000  | 5d8   | 10  | 11  | 14  | 13  | 14  |
 | 6     | 32000  | 6d8   | 10  | 11  | 14  | 13  | 14  |
 | 7     | 64000  | 7d8   | 8   | 9   | 10  | 10  | 12  |
-| 8     | 120000 | 8d8   | 8   | 9   | 10  | 10  | 12  |
-| 9     | 240000 | 9d8   | 10  | 9   | 10  | 10  | 12  |
-| 10    | 360000 | 9d8+2 | 10  | 9   | 8   | 13  | 14  |
-| 11    | 480000 | 9d8+4 | 12  | 9   | 8   | 13  | 14  |
-| 12    | 600000 | 9d8+6 | 12  | 9   | 8   | 13  | 14  |
-| 13\*  | 720000 | 12d8  | 15  | 11  | 6   | 15  | 16  |
+| 8     | 120000 | 8d8   | 10  | 9   | 10  | 10  | 12  |
+| 9 \*  | 240000 | 9d8   | 12  | 9   | 10  | 10  | 12  |
+| 10    | 360000 | 9d8+2 | 14  | 9   | 8   | 13  | 14  |
+| 11    | 480000 | 9d8+4 | 16  | 9   | 8   | 13  | 14  |
+| 12    | 600000 | 9d8+6 | 18  | 9   | 8   | 13  | 14  |
+| 13    | 720000 | 12d8  | 20  | 9   | 6   | 13  | 14  |
 
 D: Death / poison; W: Wands;
 P: Paralysis / petrify; B: Breath attacks; S: Spells / rods / staves.
 
-- At Level 13, armor and shields no longer grant bonuses to AC.
+\* At Level 9, armor and shields no longer grant bonuses to AC.
 
 </div>
 
