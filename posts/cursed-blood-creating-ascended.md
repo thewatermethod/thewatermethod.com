@@ -14,46 +14,46 @@ I [recently talked about how the concept of vampires](/posts/cursed-blood-ascend
 
 Roll for inspiration
 
-(Thanks to [donjon.sh](https://donjon.bin.sh/fantasy/name/#type=as;as=mongolian_male) for the various multicultural name options)
+(Thanks to [donjon.sh](https://donjon.bin.sh/) for the various multicultural name options)
 
-| d66 | Characteristic |
-| --- | -------------- |
-| 11  | Wulf           |
-| 12  | Aedwyn         |
-| 13  | Frega          |
-| 14  | Balda          |
-| 15  | Wotan          |
-| 16  | Tsui           |
-| 21  | Ai             |
-| 22  | Javach         |
-| 23  | Tsai Lao-Ying  |
-| 24  | Arious         |
-| 25  | Vlad           |
-| 26  | Cullen         |
-| 31  | Varney         |
-| 32  | Barnabas       |
-| 33  | Comptus        |
-| 34  | Leonkurt       |
-| 35  | Barlow         |
-| 36  | Nicodemus      |
-| 41  | Antirys        |
-| 42  | Arys           |
-| 43  | Althaeas       |
-| 44  | Darkthorn      |
-| 45  | Hefere         |
-| 46  | Du Lac         |
-| 51  | Manfred        |
-| 52  | Magnus         |
-| 53  | Ankheret       |
-| 54  | Chawa          |
-| 55  | Prana          |
-| 56  | Bradak         |
-| 61  | Martheson      |
-| 62  | Ziva           |
-| 63  | Trova          |
-| 64  | Balthazar      |
-| 65  | Z'Brite        |
-| 66  | Olvion         |
+| d66 | Name          |
+| --- | ------------- |
+| 11  | Wulf          |
+| 12  | Aedwyn        |
+| 13  | Frega         |
+| 14  | Balda         |
+| 15  | Wotan         |
+| 16  | Tsui          |
+| 21  | Ai            |
+| 22  | Javach        |
+| 23  | Tsai Lao-Ying |
+| 24  | Arious        |
+| 25  | Vlad          |
+| 26  | Cullen        |
+| 31  | Varney        |
+| 32  | Barnabas      |
+| 33  | Comptus       |
+| 34  | Leonkurt      |
+| 35  | Barlow        |
+| 36  | Nicodemus     |
+| 41  | Antirys       |
+| 42  | Arys          |
+| 43  | Althaeas      |
+| 44  | Darkthorn     |
+| 45  | Hefere        |
+| 46  | Du Lac        |
+| 51  | Manfred       |
+| 52  | Magnus        |
+| 53  | Ankheret      |
+| 54  | Chawa         |
+| 55  | Prana         |
+| 56  | Bradak        |
+| 61  | Martheson     |
+| 62  | Ziva          |
+| 63  | Trova         |
+| 64  | Balthazar     |
+| 65  | Z'Brite       |
+| 66  | Olvion        |
 
 ## Temperament
 
@@ -68,7 +68,7 @@ This is a role-playing prompt more than anything else.
 
 ## Powers
 
-Roll 2 or 3 times, depending on how old and poweful this Ascended is. Spells are as their closest OSE equivalent.
+Roll 2 or 3 times, depending on how old and powerful this Ascended is. Spells are as their closest OSE equivalent.
 
 | d20 | Power                                 |
 | --- | ------------------------------------- |

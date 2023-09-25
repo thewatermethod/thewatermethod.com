@@ -21,6 +21,7 @@
   --color-gray-70: #666;
 
   --txt-black: #1c1c1d;
+  --txt-lighter-black: #565555;
   --txt-red: #96485a;
 
   --background-color: #ededee;
@@ -431,4 +432,12 @@ SIDEBAR
 
 .ose-class-feature p {
   margin: 0 0 0.5em 0;
+}
+
+.dungeon-room {
+  background: white;
+  color: var(--txt-lighter-black);
+  font-family: "Futura", sans-serif;
+  font-weight: lighter;
+  padding: 0.5em;
 }
