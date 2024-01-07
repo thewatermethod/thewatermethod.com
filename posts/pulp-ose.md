@@ -5,6 +5,7 @@ date:
 eleventyExcludeFromCollections: true
 tags:
   - Pulp OSE
+  - Old School Essentials
 ---
 
 ## Character classes

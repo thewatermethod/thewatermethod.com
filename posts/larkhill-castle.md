@@ -4,6 +4,7 @@ description: a tour of Larkhill castle
 date: 2023-02-28
 tags:
   - Cursed Blood
+  - Old School Essentials
 ---
 
 _[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired setting of psychoactive horror._

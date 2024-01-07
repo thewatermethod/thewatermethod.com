@@ -4,6 +4,7 @@ description: Backgrounds for the Undead origin
 date: 2023-05-18
 tags:
   - Dead Black Planet
+  - Black Sword Hack
 ---
 
 **Ancient Dynasty (unique)** You start the game with 2 randomly selected spells. /+1 INT, +1 STR

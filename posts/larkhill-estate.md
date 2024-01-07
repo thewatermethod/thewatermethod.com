@@ -4,6 +4,7 @@ description: An tour of the vampire Baron Larkhill's land holdings
 date: 2023-01-18
 tags:
   - Cursed Blood
+  - Old School Essentials
 ---
 
 <img src="/img/scary-castle.jpg" alt="a scary castle photographed on a misty night... is it the Larkhill estate?" />

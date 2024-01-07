@@ -5,11 +5,12 @@ date: 2023-06-25
 eleventyExcludeFromCollections: true
 tags:
   - Cursed Blood
+  - Old School Essentials
 ---
 
 _[Cursed Blood](/tags/cursed-blood/) is the codename for a Castlevania inspired setting of psychoactive horror I'm working on._
 
-<div class="ose-class">
+<div class="ose-class sheet">
 <h2 class="ose-class-title">The Dreamer</h2>
 <div class="ose-class-stats">
   <p><strong>Requirements: </strong><span>None</span></p>

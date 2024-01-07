@@ -4,6 +4,7 @@ description: Stepping back
 date: 2023-05-29
 tags:
   - Cursed Blood
+  - Old School Essentials
 ---
 
 As I've written about [before](/tags/cursed-blood), Cursed Blood is a setting I used for a homebrew campaign. We used [Miserable Secrets by Rose Bailey](https://www.drivethrurpg.com/product/245941/Miserable-Secrets) as a jumping off point, mainly because I wanted a Castlevania setting specifically, but by session #2 we were essentially in uncharted territory.
@@ -18,7 +19,7 @@ In addition, as soon as we dug in, we essentially discarded much of the world bu
 
 This is all to say, I am now converting the custom classes and worldbuilding into an OSE framework. I'm starting with the setting's equivalent to the Fighter.
 
-<div class="ose-class">
+<div class="ose-class sheet">
 <h2 class="ose-class-title">The Doomed</h2>
 <div class="ose-class-stats">
   <p><strong>Requirements: </strong><span>None</span></p>

@@ -11,8 +11,9 @@
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
   </head>
   <body>
-    <header>
+    <header class="site-header">
       <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+      <h2 class="home home--subtitle">{{ metadata.subtitle }}</h2>
     </header>
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>

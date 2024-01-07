@@ -1,8 +1,9 @@
 <aside class="sidebar">
 
     <div class="widget">
-        <h2>Tags</h2>
-        {% include 'tags-list.njk' %}
+        <a href="{{ '/' | url }}" class="post-tag post-tag--nav">Home</a>
+        <a href="{{ '/posts/' | url }}" class="post-tag post-tag--nav">All posts</a>
+        {% include 'tags-list.njk' %}        
     </div>
 
     <div class="widget">
@@ -17,5 +18,4 @@
             <li><a href="/feed/feed.json">JSON</a></li>
         </ul>
     </div>
-
 </aside>

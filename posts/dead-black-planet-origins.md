@@ -4,6 +4,7 @@ description: A new origin for the Black Sword Hack
 date: 2023-05-08
 tags:
   - Dead Black Planet
+  - Black Sword Hack
 ---
 
 Received my copy of the [Black Sword Hack](https://www.themerrymushmen.com/product/black-sword-hack-ultimate-chaos-edition/) a few weeks ago and it really resonated with me. Typically (for the publisher) high production values and a mix of influences that line up really well with my own. I've had an idea for a setting inspired by a bit of worldbuilding from China Mieville's [The Scar](https://bookshop.org/p/books/the-scar-china-mieville/14614161?ean=9780345444387) and the Electric Wizard classic _Funeralopolis_.
